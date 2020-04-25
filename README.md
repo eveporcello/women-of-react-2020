@@ -2,11 +2,10 @@
 
 ## TDD with React by Eve Porcello
 
-## Presenter
+## Presenter Info
 
-- [Eve Porcello](https://twitter.com/eveporcello)
-- [Moon Highway Newsletter](bit.ly/moonhighway)
-- [Moon Highway Blog](https://moonhighway.com/articles)
+- **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
+- **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
 
 ## Other Resources
 
