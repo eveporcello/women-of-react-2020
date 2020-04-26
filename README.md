@@ -10,6 +10,7 @@
 ## Other Resources
 
 - [Slides](https://slides.com/moonhighway/tdd-react)
+- [Code Used in the Demo](https://github.com/eveporcello/backpack)
 - [Learning React Book](http://shop.oreilly.com/product/0636920252894.do)
 - [React Docs - Testing](https://reactjs.org/docs/testing.html)
 - [Kent C. Dodds - Testing JavaScript](https://testingjavascript.com)
